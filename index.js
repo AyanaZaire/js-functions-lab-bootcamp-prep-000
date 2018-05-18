@@ -1,6 +1,6 @@
 // write your code below!
-function happyHolidays(string){
-  console.log(string)
+function happyHolidays(){
+  console.log("Happy holidays!")
 }
 
 
