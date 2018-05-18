@@ -4,9 +4,13 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(Ayana){
-  return 'Happy holidays, ${name}!'
+  return `Happy holidays, ${name}!`
 }
 
-function happyHolidayTo (Ayana, Buttercup){
+function happyHolidayTo(Ayana, Buttercup){
   return `Happy ${holiday}, ${name}!`
+}
+
+function holidayCountdown(Birthday, 24){
+  return 
 }
