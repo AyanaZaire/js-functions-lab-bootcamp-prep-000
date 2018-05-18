@@ -7,4 +7,6 @@ function happyHolidaysTo(Ayana){
   return 'Happy holidays, ${name}!'
 }
 
-function happyHolidayTo ()
+function happyHolidayTo (Ayana, Buttercup){
+  return ''
+}
