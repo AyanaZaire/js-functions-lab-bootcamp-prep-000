@@ -3,7 +3,8 @@ function happyHolidays(){
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(Ayana){
+function happyHolidaysTo(name){
+  console.log
   return `Happy holidays, ${name}!`
 }
 
