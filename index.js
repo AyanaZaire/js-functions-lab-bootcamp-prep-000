@@ -8,5 +8,5 @@ function happyHolidaysTo(Ayana){
 }
 
 function happyHolidayTo (Ayana, Buttercup){
-  return ''
+  return `Happy ${holiday}, ${name}!`
 }
