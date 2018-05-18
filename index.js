@@ -12,5 +12,5 @@ function happyHolidayTo(Ayana, Buttercup){
 }
 
 function holidayCountdown(Birthday, 24){
-  return 
+  return `It's ${days} days until ${holiday}!`
 }
