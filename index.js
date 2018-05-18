@@ -4,7 +4,6 @@ function happyHolidays(){
 }
 
 
-/*
 function happyHolidaysTo(Ayana){
   return `Happy holidays, ${name}!`
 }
